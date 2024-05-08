@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 45d80f9340876e44da62fe9a3694a047
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Halloween Fears
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 317ff8facb0f03742ae3800f43279eed, type: 3}
+  - {fileID: 12800000, guid: 60927a0b838b3ed4886dd7d8f7d31e87, type: 3}
+  - {fileID: 12800000, guid: f4c044551b8137b4b8717972cc558ef3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
